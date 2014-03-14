@@ -1,3 +1,4 @@
+/* comment for testing git */
 define([
 	"./core",
 	"./var/rnotwhite",
